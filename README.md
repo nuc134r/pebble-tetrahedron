@@ -1,5 +1,3 @@
-# pebble-tetrahedron
-A tetrahedron 3D model on your wrist! A Pebble Smartwatch app.
+Портированная на часы практическая работа. Трёхмерный тетраэдр, который крутится гироскопом на Pebble Smartwatch.
 
-Screenshots:
-https://github.com/nuc134r/pebble-tetrahedron/wiki/Screenshots
+[Скриншоты](https://github.com/nuc134r/pebble-tetrahedron/wiki/Screenshots)
