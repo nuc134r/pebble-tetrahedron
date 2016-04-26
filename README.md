@@ -1,3 +1,5 @@
-Портированная на часы практическая работа. Трёхмерный тетраэдр, который крутится гироскопом на Pebble Smartwatch.
+Ported from Delphi practice work on applicational programming.
 
-[Скриншоты](https://github.com/nuc134r/pebble-tetrahedron/wiki/Screenshots)
+A rotatable 3D model of tetrahedron for Pebble Smartwatch. Rotation is controlled with accelerometer.
+
+[Screenshots](https://github.com/nuc134r/pebble-tetrahedron/wiki/Screenshots)
