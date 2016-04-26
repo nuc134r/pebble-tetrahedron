@@ -1,4 +1,4 @@
-A rotatable 3D model of tetrahedron for [Pebble Smartwatch](https://ru.wikipedia.org/wiki/Pebble). Rotation is controlled with accelerometer. Ported from Delphi practice work on applicational programming.
+A rotatable 3D model of tetrahedron for [Pebble Smartwatch](https://en.wikipedia.org/wiki/Pebble_(watch)). Rotation is controlled with accelerometer. Ported from Delphi practice work on applicational programming.
 
 Screenshots:
 
